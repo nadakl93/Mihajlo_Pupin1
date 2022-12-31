@@ -1,7 +1,8 @@
 *  { 
-    font-family: 'Segoe UI', sans-serif;
+    font-family: 'Open Sans',  sans-serif;
 }
 body  { 
+    background-color: #f8f8ff;
     margin: 0;
 }
 header {
@@ -19,6 +20,7 @@ footer  {
     padding-top: 8px;
     padding-bottom: 8px;
 }
+
 #content  { 
     flex-basis: 70%;
     flex-grow: 1;
